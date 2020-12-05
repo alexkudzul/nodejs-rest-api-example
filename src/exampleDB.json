@@ -1,0 +1,17 @@
+[
+    {
+        "id" : "1",
+        "title" : "Flash",
+        "director" : "Director 1",
+        "year" : "2020",
+        "rating" : "9"
+    },
+    {
+        "id": "2",
+        "title" :"DBS",
+        "director" : "Director 2",
+        "year" : "2021",
+        "rating" : "10"
+
+    }
+]
